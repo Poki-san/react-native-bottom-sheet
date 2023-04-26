@@ -1,4 +1,4 @@
-# react-native-raw-bottom-sheet
+# rn-bottomsheet
 
 [![npm version](https://badge.fury.io/js/react-native-raw-bottom-sheet.svg)](//npmjs.com/package/react-native-raw-bottom-sheet)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-raw-bottom-sheet.svg)
