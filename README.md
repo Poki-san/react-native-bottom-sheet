@@ -73,7 +73,7 @@ import { View, Button } from "react-native";
 import RBSheet from "@nonam4/react-native-bottom-sheet";
 
 export default function Example() {
-  const refRBSheet = useRef();
+  const refRBSheet = useRef<RBSheet | null>(null);
   return (
     <View
       style={{
@@ -83,7 +83,7 @@ export default function Example() {
         backgroundColor: "#000"
       }}
     >
-      <Button title="OPEN BOTTOM SHEET" onPress={() => refRBSheet.current.open()} />
+      <Button title="OPEN BOTTOM SHEET" onPress={() => refRBSheet.current?.open()} />
       <RBSheet
         ref={refRBSheet}
         closeOnDragDown={true}
@@ -102,7 +102,7 @@ export default function Example() {
     </View>
   );
 }
-```
+``` 
 
 #### Dynamic Bottom Sheet
 
