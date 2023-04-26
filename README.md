@@ -17,7 +17,7 @@
 
 |                                                      Showcase iOS                                                      |                                                    Showcase Android                                                    |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/nysamnang/stock-images/master/react-native-raw-bottom-sheet/RNRBS-IOS-2.0.3.gif) | ![](https://raw.githubusercontent.com/nysamnang/stock-images/master/react-native-raw-bottom-sheet/RNRBS-AOS-2.0.3.gif) |
+| ![](https://raw.githubusercontent.com/nonam4/rn-bottomsheet/master/preview/RNRBS-IOS-2.0.3.gif) | ![](https://raw.githubusercontent.com/nonam4/rn-bottomsheet/master/preview/RNRBS-AOS-2.0.3.gif) |
  
 ## Installation 
 
