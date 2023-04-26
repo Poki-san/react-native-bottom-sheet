@@ -1,8 +1,8 @@
 # react-native-bottom-sheet
 
-[![npm version](https://badge.fury.io/js/react-native-bottom-sheet.svg)](//npmjs.com/package/react-native-bottom-sheet)
+[![npm version](https://badge.fury.io/js/react-native-bottom-sheet.svg)](//npmjs.com/package/@nonam4/react-native-bottom-sheet)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-bottom-sheet.svg)
-](//npmjs.com/package/react-native-bottom-sheet)
+](//npmjs.com/package/@nonam4/react-native-bottom-sheet)
  
 - Super Lightweight Component
 - Add Your own Component To Bottom Sheet
@@ -12,8 +12,7 @@
 - Support Both Android And iOS
 - Smooth Animation
 - Zero Configuration
-- Zero dependency
-- Top Search Ranking (react native bottom sheet) at [npms.io](https://npms.io/search?q=react%20native%20bottom%20sheet)
+- Zero dependency 
 
 |                                                      Showcase iOS                                                      |                                                    Showcase Android                                                    |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
@@ -169,4 +168,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Author
 
 Made with ❤️ by [NY Samnang](https://github.com/nysamnang).
+
 Edited/updated by [NoNam4](https://github.com/nonam4).
