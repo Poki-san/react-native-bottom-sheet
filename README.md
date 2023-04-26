@@ -1,9 +1,9 @@
-# rn-bottomsheet
+# react-native-bottom-sheet
 
-[![npm version](https://badge.fury.io/js/rn-bottomsheet.svg)](//npmjs.com/package/rn-bottomsheet)
-[![npm downloads](https://img.shields.io/npm/dm/rn-bottomsheet.svg)
-](//npmjs.com/package/rn-bottomsheet)
-
+[![npm version](https://badge.fury.io/js/react-native-bottom-sheet.svg)](//npmjs.com/package/react-native-bottom-sheet)
+[![npm downloads](https://img.shields.io/npm/dm/react-native-bottom-sheet.svg)
+](//npmjs.com/package/react-native-bottom-sheet)
+ 
 - Super Lightweight Component
 - Add Your own Component To Bottom Sheet
 - Customize Whatever You Like
@@ -17,18 +17,18 @@
 
 |                                                      Showcase iOS                                                      |                                                    Showcase Android                                                    |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/nonam4/rn-bottomsheet/master/preview/RNRBS-IOS-2.0.3.gif) | ![](https://raw.githubusercontent.com/nonam4/rn-bottomsheet/master/preview/RNRBS-AOS-2.0.3.gif) |
+| ![](https://raw.githubusercontent.com/nonam4/react-native-bottom-sheet/master/preview/RNRBS-IOS-2.0.3.gif) | ![](https://raw.githubusercontent.com/nonam4/react-native-bottom-sheet/master/preview/RNRBS-AOS-2.0.3.gif) |
  
 ## Installation 
 
 ```
-npm i rn-bottomsheet --save
+npm i @nonam4/react-native-bottom-sheet --save
 ```
 
 ### or
 
 ```
-yarn add rn-bottomsheet
+yarn add @nonam4/react-native-bottom-sheet
 ```
 
 ## Example
@@ -38,7 +38,7 @@ yarn add rn-bottomsheet
 ```jsx
 import React, { Component } from "react";
 import { View, Button } from "react-native";
-import RBSheet from "rn-bottomsheet";
+import RBSheet from "@nonam4/react-native-bottom-sheet";
 
 export default class Example extends Component {
   render() {
@@ -71,7 +71,7 @@ export default class Example extends Component {
 ```jsx
 import React, { useRef } from "react";
 import { View, Button } from "react-native";
-import RBSheet from "rn-bottomsheet";
+import RBSheet from "@nonam4/react-native-bottom-sheet";
 
 export default function Example() {
   const refRBSheet = useRef();
@@ -164,7 +164,7 @@ customStyles: {
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nonam4/rn-bottomsheet/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nonam4/react-native-bottom-sheet/blob/master/LICENSE) file for details
 
 ## Author
 

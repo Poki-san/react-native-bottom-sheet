@@ -1,7 +1,7 @@
 {
-  "name": "rn-bottomsheet",
+  "name": "@nonam4/react-native-bottom-sheet",
   "version": "2.2.0",
-  "description": "Add Your Own Component To Bottom Sheet Whatever You Want (Android & iOS)",
+  "description": "Add Whatever You Want To Bottom Sheet (Android & iOS)",
   "main": "index.js",
   "typings": "index.d.ts",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nonam4/rn-bottomsheet.git"
+    "url": "git+https://github.com/nonam4/react-native-bottom-sheet.git"
   },
   "keywords": [
     "bottom-sheet",
@@ -26,9 +26,9 @@
   "author": "NY Samnang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nonam4/rn-bottomsheet/issues"
+    "url": "https://github.com/nonam4/react-native-bottom-sheet/issues"
   },
-  "homepage": "https://github.com/nonam4/rn-bottomsheet#readme",
+  "homepage": "https://github.com/nonam4/react-native-bottom-sheet#readme",
   "devDependencies": {
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.10.0",
