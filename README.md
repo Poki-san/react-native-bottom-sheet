@@ -1,8 +1,8 @@
 # react-native-bottom-sheet
 
-[![npm version](https://badge.fury.io/js/react-native-bottom-sheet.svg)](//npmjs.com/package/@nonam4/react-native-bottom-sheet)
+[![npm version](https://badge.fury.io/js/react-native-bottom-sheet.svg)](//npmjs.com/package/@poki_san/react-native-bottom-sheet)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-bottom-sheet.svg)
-](//npmjs.com/package/@nonam4/react-native-bottom-sheet)
+](//npmjs.com/package/@poki_san/react-native-bottom-sheet)
  
 - Super Lightweight Component
 - Add Your own Component To Bottom Sheet
@@ -16,7 +16,7 @@
 
 |                                                      Showcase iOS                                                      |                                                    Showcase Android                                                    |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| ![](https://raw.githubusercontent.com/nonam4/react-native-bottom-sheet/master/preview/RNRBS-IOS-2.0.3.gif) | ![](https://raw.githubusercontent.com/nonam4/react-native-bottom-sheet/master/preview/RNRBS-AOS-2.0.3.gif) |
+| ![](https://raw.githubusercontent.com/Poki-san/react-native-bottom-sheet/master/preview/RNRBS-IOS-2.0.3.gif) | ![](https://raw.githubusercontent.com/Poki-san/react-native-bottom-sheet/master/preview/RNRBS-AOS-2.0.3.gif) |
  
 ## Installation 
 
@@ -164,7 +164,7 @@ customStyles: {
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nonam4/react-native-bottom-sheet/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Poki-san/react-native-bottom-sheet/blob/master/LICENSE) file for details
 
 ## Author
 
