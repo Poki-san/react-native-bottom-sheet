@@ -21,13 +21,13 @@
 ## Installation 
 
 ```
-npm i @pokiSan/react-native-bottom-sheet --save
+npm i @poki_san/react-native-bottom-sheet --save
 ```
 
 ### or
 
 ```
-yarn add @pokiSan/react-native-bottom-sheet
+yarn add @poki_san/react-native-bottom-sheet
 ```
 
 ## Example
@@ -37,7 +37,7 @@ yarn add @pokiSan/react-native-bottom-sheet
 ```jsx
 import React, { Component } from "react";
 import { View, Button } from "react-native";
-import RBSheet from "@pokiSan/react-native-bottom-sheet";
+import RBSheet from "@poki_san/react-native-bottom-sheet";
 
 export default class Example extends Component {
   render() {
@@ -70,7 +70,7 @@ export default class Example extends Component {
 ```jsx
 import React, { useRef } from "react";
 import { View, Button } from "react-native";
-import RBSheet from "@pokiSan/react-native-bottom-sheet";
+import RBSheet from "@poki_san/react-native-bottom-sheet";
 
 export default function Example() {
   const refRBSheet = useRef<RBSheet | null>(null);
