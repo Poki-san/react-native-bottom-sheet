@@ -34,6 +34,7 @@ class RBSheet extends Component {
   setModalVisible( visible, props ) {
     const { height, minClosingHeight, openDuration, closeDuration, onClose, onOpen, minStartHeight } = this.props
     const { animatedHeight, pan } = this.state
+    animatedHeight.setValue(minStartHeight)
     if ( visible ) {
       this.setState( { modalVisible: visible } )
       if ( typeof onOpen === "function" ) onOpen( props )
