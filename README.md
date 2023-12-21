@@ -21,13 +21,13 @@
 ## Installation 
 
 ```
-npm i @nonam4/react-native-bottom-sheet --save
+npm i @pokiSan/react-native-bottom-sheet --save
 ```
 
 ### or
 
 ```
-yarn add @nonam4/react-native-bottom-sheet
+yarn add @pokiSan/react-native-bottom-sheet
 ```
 
 ## Example
@@ -37,7 +37,7 @@ yarn add @nonam4/react-native-bottom-sheet
 ```jsx
 import React, { Component } from "react";
 import { View, Button } from "react-native";
-import RBSheet from "@nonam4/react-native-bottom-sheet";
+import RBSheet from "@pokiSan/react-native-bottom-sheet";
 
 export default class Example extends Component {
   render() {
@@ -70,7 +70,7 @@ export default class Example extends Component {
 ```jsx
 import React, { useRef } from "react";
 import { View, Button } from "react-native";
-import RBSheet from "@nonam4/react-native-bottom-sheet";
+import RBSheet from "@pokiSan/react-native-bottom-sheet";
 
 export default function Example() {
   const refRBSheet = useRef<RBSheet | null>(null);
@@ -128,6 +128,7 @@ renderItem = (item, index) => (
 | animationType    | string   | Background animation ("none", "fade", "slide")          | "none"   |
 | height           | number   | Height of Bottom Sheet                                  | 260      |
 | minClosingHeight | number   | Minimum height of Bottom Sheet before close             | 0        |
+| minStartHeight   | number   | Minimum starting height of the bottom sheet before opening            | 0        |
 | openDuration     | number   | Open Bottom Sheet animation duration                    | 300 (ms) |
 | closeDuration    | number   | Close Bottom Sheet animation duration                   | 200 (ms) |
 | closeOnDragDown  | boolean  | Use gesture drag down to close Bottom Sheet             | false    |
@@ -170,3 +171,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 Made with ❤️ by [NY Samnang](https://github.com/nysamnang).
 
 Edited/updated by [NoNam4](https://github.com/nonam4).
+
+Edited/updated by [Poki-san](https://github.com/Poki-san).

@@ -1,11 +1,12 @@
 import { Component } from "react"
 import { StyleProp, ViewStyle } from "react-native"
 
-declare module "@nonam4/react-native-bottom-sheet" {
+declare module "@poki_san/react-native-bottom-sheet" {
   export type RBSheetProps = {
     animationType?: "none" | "fade" | "slide"
     height?: number
     minClosingHeight?: number
+    minStartHeight?: number
     openDuration?: number
     closeDuration?: number
     closeOnDragDown?: boolean
