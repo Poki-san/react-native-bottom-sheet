@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nonam4/react-native-bottom-sheet.git"
+    "url": "git+https://github.com/Poki-san/react-native-bottom-sheet.git"
   },
   "keywords": [
     "bottom-sheet",
@@ -26,9 +26,9 @@
   "author": "NY Samnang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nonam4/react-native-bottom-sheet/issues"
+    "url": "https://github.com/Poki-san/react-native-bottom-sheet/issues"
   },
-  "homepage": "https://github.com/nonam4/react-native-bottom-sheet#readme",
+  "homepage": "https://github.com/Poki-san/react-native-bottom-sheet#readme",
   "devDependencies": {
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.10.0",
