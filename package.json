@@ -1,6 +1,6 @@
 {
   "name": "@poki_san/react-native-bottom-sheet",
-  "version": "2.2.6",
+  "version": "2.2.7",
   "description": "Add Whatever You Want To Bottom Sheet (Android & iOS)",
   "main": "index.js",
   "typings": "index.d.ts",
